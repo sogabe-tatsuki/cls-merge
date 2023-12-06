@@ -9,6 +9,11 @@
     "prepare": "npm run build",
     "test": "jest"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/sogabe-tatsuki/cls-merge"
+  },
+  "homepage": "https://github.com/sogabe-tatsuki/cls-merge#readme",
   "author": "Tatsuki Sogabe",
   "license": "MIT",
   "dependencies": {
