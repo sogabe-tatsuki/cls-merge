@@ -1,6 +1,6 @@
 {
   "name": "cls-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "class merging npm package",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
